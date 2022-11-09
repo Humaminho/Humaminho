@@ -3,9 +3,9 @@
 # Hi i'm Humam
 ## Currently learning Web Developement
 
-####I like to create stuff.
+#### I like to create stuff.
 
-##Skills:
+## Skills:
 * 💻 HTML
 * 🖌️ CSS
 * [■■■■■□□□□□] Currently learning: JavaScript
