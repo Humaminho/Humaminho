@@ -1,6 +1,8 @@
-### Hi there 👋, my name is Humam
-#### Currently learning Web Developement
-![Currently learning Web Developement](https://i.pinimg.com/originals/eb/50/87/eb50875a68b04b0480fa929af2c7547c.gif)
+(https://i.pinimg.com/originals/eb/50/87/eb50875a68b04b0480fa929af2c7547c.gif)
+
+# Hi i'm Humam
+### Currently learning Web Developement
+![Currently learning Web Developement]
 
 I like to create stuff.
 
