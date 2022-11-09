@@ -1,10 +1,9 @@
-(https://i.pinimg.com/originals/eb/50/87/eb50875a68b04b0480fa929af2c7547c.gif)
+![Currently learning Web Developement](https://github.com/Humaminho/Humaminho/blob/main/pixelart.gif)
 
 # Hi i'm Humam
-### Currently learning Web Developement
-![Currently learning Web Developement]
+## Currently learning Web Developement
 
-I like to create stuff.
+####I like to create stuff.
 
 Skills: HTML / CSS / JS
 
