@@ -6,6 +6,8 @@
 #### *I like to create stuff*.
 
 ## Skills:
+
+![javascript](/js.png)
 * 💻 **HTML**
 * 🖌️ **CSS**
 * [■■■■■□□□□□] Currently learning: **JavaScript**
