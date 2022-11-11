@@ -7,10 +7,9 @@
 
 ## Skills:
 
-![javascript](/js.png)
-* 💻 **HTML**
-* 🖌️ **CSS**
-* [■■■■■□□□□□] Currently learning: **JavaScript**
+* ![html](/html.png) **HTML**
+* ![css](/css.png) **CSS**
+* ![javascript](/js.png) [■■■■■□□□□□] Currently learning: **JavaScript**
 
 
 
