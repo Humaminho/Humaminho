@@ -7,7 +7,7 @@
 
 ## Skills:
 
-<img href="/js.png">
+![javascript](/js(1).png)
 * 💻 **HTML**
 * 🖌️ **CSS**
 * [■■■■■□□□□□] Currently learning: **JavaScript**
