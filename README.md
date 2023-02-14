@@ -8,9 +8,9 @@
 
 ## Skills:
 
-* ![html](/html.png) **HTML**
-* ![css](/css.png) **CSS**
-* ![javascript](/js.png) [■■■■■□□□□□] Currently learning: **JavaScript**
+* ![html](/assets/html.png) **HTML**
+* ![css](/assets/css.png) **CSS**
+* ![javascript](/assets/js.png) [■■■■■□□□□□] Currently learning: **JavaScript**
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Humaminho&show_icons=true&count_private=true)  
 
