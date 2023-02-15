@@ -15,6 +15,17 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/>
 </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=humaminho&count_private=true&theme=transparent&show_icons=true&icon_color=BB0000&title_color=FFFFFF&text_color=eaeaea&hide_border=false&border_color=f0f0f0)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=humaminho&count_private=true&theme=transparent&show_icons=true&icon_color=BB0000&title_color=FFFFFF&text_color=eaeaea&hide_border=false&border_color=f0f0f0&border_radius=none)
 
-![Profile views](https://gpvc.arturio.dev/Humaminho)
+```
+name: "Houmame Kharbouch"
+located_in: "Morocco"
+education: "Self-Taugh Web Developer"
+interests: [
+  "Web-Dev",
+  "Web Design",
+  "UI/UX"
+]
+currently_learning: ["Javascript"]
+hobbies: ["Argana", "Aqwass", "Rayane"]
+```
