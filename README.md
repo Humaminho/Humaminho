@@ -1,4 +1,4 @@
-![Currently learning Web Developement](https://i.ibb.co/ygD0nH3/gifgif.gif)
+![emiga](https://i.ibb.co/ygD0nH3/gifgif.gif)
 
 # Hey i'm Humam 
 
