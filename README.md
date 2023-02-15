@@ -4,9 +4,8 @@
 
 ### Currently learning Web Developement
 
-#### *I like to create stuff*.
-
-## Skills:
+## Skills and tools:
+![html](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg)
 
 ![html](/assets/html.png)![css](/assets/css.png)![javascript](/assets/js.png)
 
