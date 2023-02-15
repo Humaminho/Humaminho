@@ -15,6 +15,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/>
 </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=humaminho&count_private=true&theme=transparent&show_icons=true&icon_color=BB0000&title_color=FFFFFF&text_color=eaeaea&hide_border=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=humaminho&count_private=true&theme=transparent&show_icons=true&icon_color=BB0000&title_color=FFFFFF&text_color=eaeaea&hide_border=true&border_color=f0f0f0)
 
 ![Profile views](https://gpvc.arturio.dev/Humaminho)
