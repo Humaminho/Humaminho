@@ -12,6 +12,6 @@
 * ![css](/assets/css.png) **CSS**
 * ![javascript](/assets/js.png) [■■■■■□□□□□] Currently learning: **JavaScript**
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=humaminho&count_private=true&theme=radical&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=humaminho&count_private=true&theme=transparent&show_icons=true)
 
 ![Profile views](https://gpvc.arturio.dev/Humaminho)  
