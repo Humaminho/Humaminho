@@ -4,7 +4,7 @@
 
 > I'm currently learning Web Developement
 
-#### Skills and tools:
+#### :computer: Skills and tools:
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
