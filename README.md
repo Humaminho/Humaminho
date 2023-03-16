@@ -28,4 +28,4 @@ currently_learning: ["Javascript"]
 hobbies: ["Argana", "Aqwass", "Rayane"]
 ```
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=humaminho&count_private=true&theme=transparent&show_icons=true&icon_color=BB0000&title_color=FFFFFF&text_color=eaeaea&hide_border=false&border_color=f0f0f0&border_radius=none)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Humaminho&theme=prussian&border_radius=&ring=EB852C&fire=EB5D20&background=090D13&currStreakLabel=EB852C&currStreakNum=EBEBEB)](https://git.io/streak-stats)
