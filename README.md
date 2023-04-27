@@ -1,11 +1,11 @@
 ![emiga](https://i.ibb.co/ygD0nH3/gifgif.gif)
 
-# Hey i'm Humam 
+ # Hey i'm Humam 
 
-> I'm currently learning Web Developement
+ > I'm currently learning Front-End Web Developement
 
-#### :computer: Skills and tools:
-<p align="left">
+  <h4 align="center">:computer: Skills and tools:</h1>
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
@@ -19,16 +19,18 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/>
 </p>
 
+# 
+
 ```
-name: "Houmame Kharbouch"
-located_in: "Morocco"
-education: "Self-Taugh Web Developer"
+name: "Houmame Kharbouch",
+located_in: "Morocco",
+education: "Self-Taugh Web Developer",
 interests: [
   "Computer science",
   "Web Design",
   "UI/UX"
-]
-currently_learning: ["React"]
+],
+currently_learning: "React"
 ```
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Humaminho&theme=prussian&border_radius=&ring=EB852C&fire=EB5D20&background=090D13&currStreakLabel=EB852C&currStreakNum=EBEBEB)](https://git.io/streak-stats)
