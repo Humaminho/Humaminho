@@ -2,7 +2,7 @@
 
  # Hey i'm Humam 
 
- > I'm currently learning Front-End Web Developement
+ > I'm a Front-End Web Developer
 
   <h4 align="center">:computer: Skills and tools:</h1>
 <p align="center">
@@ -32,7 +32,7 @@ interests: [
   "Web Design",
   "UI/UX"
 ],
-currently_learning: "React"
+currently_learning: "NextJS"
 ```
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Humaminho&theme=prussian&border_radius=&ring=EB852C&fire=EB5D20&background=090D13&currStreakLabel=EB852C&currStreakNum=EBEBEB)](https://git.io/streak-stats)
