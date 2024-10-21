@@ -7,7 +7,7 @@
   <h4 align="center">:computer: Skills and tools:</h1>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,sass,javascript,typescript,react,redux,jest,nextjs,threejs,nodejs,express,py,django,prisma,postgres,mysql,mongodb,mysql,nginx,linux,bash,git,postman,docker,figma&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,sass,javascript,typescript,react,redux,jest,nextjs,threejs,nodejs,express,py,django,prisma,postgres,mysql,mongodb,nginx,linux,bash,git,postman,docker,figma&theme=dark" />
   </a>
 </p>
 
