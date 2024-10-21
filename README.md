@@ -3,13 +3,6 @@
  # Hey i'm Humam 
  > I'm a Software Developer
 
-## 💻 Skills and tools:
-<p align="center">
-  <a href="https://skillicons.dev" align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,sass,javascript,typescript,react,redux,jest,nextjs,threejs,nodejs,express,py,django,prisma,postgres,mysql,mongodb,nginx,linux,bash,git,postman,docker,figma&theme=dark" />
-  </a>
-</p>
-
 ## 👋 About me
 ```
 name: "Houmame Kharbouch",
@@ -22,6 +15,14 @@ interests: [
 ],
 currently_learning: "Express.js"
 ```
+
+## 💻 Skills and tools:
+<p align="center">
+  <a href="https://skillicons.dev" align="center">
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,sass,javascript,typescript,react,redux,jest,nextjs,threejs,nodejs,express,py,django,prisma,postgres,mysql,mongodb,nginx,linux,bash,git,postman,docker,figma&theme=dark" />
+  </a>
+</p>
+
 ## 📞 Reach out!
 - [Email](mailto:dev.humam@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/humam-dev/)
