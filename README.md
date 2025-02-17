@@ -1,4 +1,5 @@
-![emiga](https://i.ibb.co/ygD0nH3/gifgif.gif)
+![emiga](https://i.pinimg.com/originals/d5/f3/e7/d5f3e7e33f8072785936fe88cd16f502.gif)
+<div><a target="_blank" href="https://www.patreon.com/kirokaze">Pixel art from Kirokaz</a></div>
 
  # Hey i'm Humam 
  > I'm a Software Developer
@@ -26,6 +27,3 @@ currently_learning: "Express.js"
 ## 📞 Reach out!
 - [Email](mailto:dev.humam@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/humam-dev/)
-
-#
-[![GitHub Streak](https://streak-stats.demolab.com?user=Humaminho&theme=prussian&border_radius=&ring=EB852C&fire=EB5D20&background=090D13&currStreakLabel=EB852C&currStreakNum=EBEBEB)](https://git.io/streak-stats)
